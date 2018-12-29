@@ -25,3 +25,10 @@ In the original implementation, microphones are used to detect the blowing actio
 
 
 
+# New Idea - Using A Lighter to light up a LED
+
+LED is used as a light sensor this time!
+
+![](img/voltage_changes_when_using_lighter_to_light_up_led.png)
+
+We can conbine the two function togetther - using a lighter to light up an LED an blowing an LED like a candle.
